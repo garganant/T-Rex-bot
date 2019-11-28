@@ -1,4 +1,3 @@
-#https://www.youtube.com/watch?v=bf_UOFFaHiY
 
 from PIL import ImageGrab, ImageOps
 import pyautogui
